@@ -10,16 +10,16 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 
 ## 🚀 About Me
 
-* 💻 Full-Stack Developer focused on **Laravel & Next.js**
-* ⚙️ Experienced in building **REST APIs, dashboards, authentication systems, and web applications**
-* 🎨 Building modern interfaces with **React & Next.js**
-* 🛠️ Developing scalable backends with **Laravel & PHP**
-* 🗄️ Working with **MySQL, MongoDB & Firebase**
-* 🐍 Also experienced with **Python**
-* 📦 **47 repositories** on GitHub
-* 🔥 **158 contributions** in the last year
-* 🌱 Always learning, experimenting, and improving my development workflow
-* 🚀 Interested in building products that solve real-world problems
+- 💻 Full-Stack Developer focused on **Laravel & Next.js**
+- ⚙️ Experienced in building **REST APIs, dashboards, authentication systems, and web applications**
+- 🎨 Building modern interfaces with **React & Next.js**
+- 🛠️ Developing scalable backends with **Laravel & PHP**
+- 🗄️ Working with **MySQL, MongoDB & Firebase**
+- 🐍 Also experienced with **Python**
+- 📦 **47 repositories** on GitHub
+- 🔥 **158 contributions** in the last year
+- 🌱 Always learning, experimenting, and improving my development workflow
+- 🚀 Interested in building products that solve real-world problems
 
 ---
 
@@ -62,65 +62,94 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 ---
 
 ## 🧠 What I'm Working With
+
+```text
 ╭──────────────────────────────────────────────────────────────╮
 │                        FULL-STACK                            │
 │                                                              │
-│   ⚡ Next.js        →  Modern React Applications              │
+│   ⚡ Next.js        →  Modern React Applications             │
 │   🎨 React          →  Interactive User Interfaces            │
-│   🔥 Laravel        →  APIs & Backend Systems                 │
-│   🐘 PHP            →  Server-Side Development                │
+│   🔥 Laravel        →  APIs & Backend Systems                │
+│   🐘 PHP            →  Server-Side Development               │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
-│                         DATABASE                              │
+│                         DATABASE                             │
 │                                                              │
 │   🐬 MySQL          →  Relational Data                       │
-│   🍃 MongoDB        →  NoSQL Applications                     │
-│   🔥 Firebase       →  Cloud & Backend Services               │
+│   🍃 MongoDB        →  NoSQL Applications                    │
+│   🔥 Firebase       →  Cloud & Backend Services              │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
-│                       DEVELOPMENT                             │
+│                       DEVELOPMENT                            │
 │                                                              │
-│   📘 TypeScript     →  Type-Safe Applications                 │
-│   🟨 JavaScript     →  Web Development                        │
-│   🐍 Python         →  Automation & Applications               │
-│   🌐 HTML / CSS     →  Responsive Interfaces                   │
+│   📘 TypeScript     →  Type-Safe Applications                │
+│   🟨 JavaScript     →  Web Development                       │
+│   🐍 Python         →  Automation & Applications              │
+│   🌐 HTML / CSS     →  Responsive Interfaces                 │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
 ## ⚡ My Development Workflow
 
-01 — Plan → Understand the problem and design the architecture
-02 — Build → Develop clean, maintainable backend & frontend systems
-03 — Connect → Build APIs, integrations, databases & services
-04 — Refine → Optimize performance, UX and code quality
-05 — Ship → Test, deploy and continuously improve
+```text
+01  PLAN       →  Understand the problem & design the architecture
+02  BUILD      →  Develop clean, maintainable systems
+03  CONNECT    →  Build APIs, integrations & databases
+04  REFINE     →  Optimize performance, UX & code quality
+05  SHIP       →  Test, deploy & continuously improve
+```
+
+---
 
 ## 🛠️ Core Technologies
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,typescript,javascript,python,html,css,mysql,mongodb,firebase,git,github" alt="My Tech Stack"/> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,typescript,javascript,python,html,css,mysql,mongodb,firebase,git,github" alt="My Tech Stack"/>
+</p>
+
+---
 
 ## 🔥 What I Build
-🌐 Full-Stack Web Applications
-⚡ Next.js Applications
-🔥 Laravel Backends & REST APIs
-🔐 Authentication & Authorization Systems
-📊 Admin Dashboards & Management Systems
-🗃️ MySQL & MongoDB Database Applications
-☁️ Firebase-powered Applications
-🔄 API Integrations
-🧩 SaaS Platforms
-📱 Responsive Web Experiences
-💡 Development Philosophy
 
-Build it clean. Make it scalable. Keep learning.
+- 🌐 **Full-Stack Web Applications**
+- ⚡ **Next.js Applications**
+- 🔥 **Laravel Backends & REST APIs**
+- 🔐 **Authentication & Authorization Systems**
+- 📊 **Admin Dashboards & Management Systems**
+- 🗃️ **MySQL & MongoDB Database Applications**
+- ☁️ **Firebase-powered Applications**
+- 🔄 **API Integrations**
+- 🧩 **SaaS Platforms**
+- 📱 **Responsive Web Experiences**
 
-I believe good software isn't just about making something work — it's about writing code that is maintainable, understandable, scalable, and enjoyable to work with.
+---
+
+## 💡 Development Philosophy
+
+> **Build it clean. Make it scalable. Keep learning.**
+
+I believe good software isn't just about making something work — it's about writing code that is **maintainable, understandable, scalable, and enjoyable to work with**.
+
+---
 
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on interesting projects, and discussing web development.
 
-<p align="left"> <a href="https://github.com/Dantesos33"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/m-u-h-a-d-d-i-s-bbb65a222/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
-
-<p align="center"> <i>Thanks for visiting my profile! 🚀</i> </p>
+<p align="left">
+  <a href="https://github.com/Dantesos33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/m-u-h-a-d-d-i-s-bbb65a222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
