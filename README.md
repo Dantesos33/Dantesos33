@@ -61,83 +61,66 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 
 ---
 
-## 🔨 What I Build
+## 🧠 What I'm Working With
+╭──────────────────────────────────────────────────────────────╮
+│                        FULL-STACK                            │
+│                                                              │
+│   ⚡ Next.js        →  Modern React Applications              │
+│   🎨 React          →  Interactive User Interfaces            │
+│   🔥 Laravel        →  APIs & Backend Systems                 │
+│   🐘 PHP            →  Server-Side Development                │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                         DATABASE                              │
+│                                                              │
+│   🐬 MySQL          →  Relational Data                       │
+│   🍃 MongoDB        →  NoSQL Applications                     │
+│   🔥 Firebase       →  Cloud & Backend Services               │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                       DEVELOPMENT                             │
+│                                                              │
+│   📘 TypeScript     →  Type-Safe Applications                 │
+│   🟨 JavaScript     →  Web Development                        │
+│   🐍 Python         →  Automation & Applications               │
+│   🌐 HTML / CSS     →  Responsive Interfaces                   │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+## ⚡ My Development Workflow
 
-I work across the entire application stack, including:
+01 — Plan → Understand the problem and design the architecture
+02 — Build → Develop clean, maintainable backend & frontend systems
+03 — Connect → Build APIs, integrations, databases & services
+04 — Refine → Optimize performance, UX and code quality
+05 — Ship → Test, deploy and continuously improve
 
-* 🌐 Full-stack web applications
-* 🔐 Authentication & authorization systems
-* 🔌 RESTful APIs
-* 📊 Admin dashboards & management systems
-* 🗃️ Database-driven applications
-* ⚡ Server-side rendered applications
-* 📱 Responsive web interfaces
-* 🧩 SaaS applications
-* 🔄 API integrations
-* 🏗️ Scalable application architectures
+## 🛠️ Core Technologies
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,typescript,javascript,python,html,css,mysql,mongodb,firebase,git,github" alt="My Tech Stack"/> </p>
 
-## 📊 GitHub Stats
+## 🔥 What I Build
+🌐 Full-Stack Web Applications
+⚡ Next.js Applications
+🔥 Laravel Backends & REST APIs
+🔐 Authentication & Authorization Systems
+📊 Admin Dashboards & Management Systems
+🗃️ MySQL & MongoDB Database Applications
+☁️ Firebase-powered Applications
+🔄 API Integrations
+🧩 SaaS Platforms
+📱 Responsive Web Experiences
+💡 Development Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dantesos33&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantesos33&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
-</p>
+Build it clean. Make it scalable. Keep learning.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dantesos33&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-**47 repositories** • **158 contributions last year**
-
-I use GitHub to experiment with new technologies, build projects, solve problems, and continuously improve my development skills.
-
----
-
-## 🎯 Current Focus
-
-```text
-Laravel        ████████████████████  Backend Development
-Next.js        ████████████████████  Full-Stack Development
-React          ███████████████████░  UI Development
-TypeScript     ██████████████████░░  Type Safety
-PHP            ████████████████████  Backend Development
-Python         ████████████████░░░░  Development & Automation
-MySQL          ██████████████████░░  Relational Database
-MongoDB        ████████████████░░░░  NoSQL Database
-Firebase       ███████████████░░░░░  Backend Services
-```
-
----
-
-## 💡 Development Philosophy
-
-> **Build it clean. Make it scalable. Keep learning.**
-
-I believe good software isn't just about making something work — it's about writing code that is **maintainable, understandable, scalable, and enjoyable to work with**.
-
----
+I believe good software isn't just about making something work — it's about writing code that is maintainable, understandable, scalable, and enjoyable to work with.
 
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on interesting projects, and discussing web development.
 
-<p align="left">
-  <a href="https://github.com/Dantesos33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m-u-h-a-d-d-i-s-bbb65a222/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/Dantesos33"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/m-u-h-a-d-d-i-s-bbb65a222/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+<p align="center"> <i>Thanks for visiting my profile! 🚀</i> </p>
 
 ---
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
