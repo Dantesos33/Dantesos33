@@ -16,8 +16,8 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 - 🛠️ Developing scalable backends with **Laravel & PHP**
 - 🗄️ Working with **MySQL, MongoDB & Firebase**
 - 🐍 Also experienced with **Python**
-- 📦 **47 repositories** on GitHub
-- 🔥 **158 contributions** in the last year
+- 📦 **49 repositories** on GitHub
+- 🔥 **165 contributions** in the last year
 - 🌱 Always learning, experimenting, and improving my development workflow
 - 🚀 Interested in building products that solve real-world problems
 
