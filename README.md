@@ -9,7 +9,7 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 ---
 
 ## 📊 Live GitHub Insights
-<!-- Best Practice: Keep visual metrics near the top to catch the viewer's attention instantly. -->
+
 <p align="center">
   <img src="https://vercel.app" alt="Muhaddis's GitHub Stats" height="190" />
   <img src="https://herokuapp.com" alt="GitHub Streak" height="190" />
@@ -35,8 +35,6 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 ---
 
 ## 🧰 Tech Stack
-
-<!-- Best Practice: Consistent badge formatting (flat-square style with icons) ensures a clean, professional aesthetic. -->
 
 ### 💻 Languages & Frameworks
 <p align="left">
