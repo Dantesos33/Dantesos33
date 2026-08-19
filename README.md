@@ -109,6 +109,7 @@ I enjoy turning ideas into clean, functional applications — from robust backen
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,typescript,javascript,python,html,css,mysql,mongodb,firebase,git,github" alt="My Tech Stack"/>
 </p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dantesos33)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
